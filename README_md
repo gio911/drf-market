@@ -1,0 +1,4 @@
+### Running development server
+
+    cd backend
+    ./bin/run

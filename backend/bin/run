@@ -1,0 +1,2 @@
+. ./env/bin/activate
+pyhton3 manage.py runserver 
